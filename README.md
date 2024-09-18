@@ -8,7 +8,7 @@ Tired of installing millions of dependencies just to write commits with ollama? 
 2. Add `aicommit` function to your zsh shell:
 
 ```sh
-curl https://raw.githubusercontent.com/SkullMag/aicommit/main/aicommit.sh >> ~/.zshrc
+curl https://raw.githubusercontent.com/SkullMag/aicommit/main/aicommit.zsh >> ~/.zshrc
 exec zsh
 ```
 
